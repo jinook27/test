@@ -1,0 +1,2 @@
+https://tutorials.pytorch.kr/beginner/transfer_learning_tutorial.html
+https://dreamgonfly.github.io/blog/gan-explained/
